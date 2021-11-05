@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   Welcome to my github profile👋
 </H1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SSez&repo=github-readme-stats" />
+</a>
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=SSez&theme=radical&show_icons=true">
