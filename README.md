@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<H1 align="center">
+  Welcome to my github profile👋
+</H1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSez&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSez&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
