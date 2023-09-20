@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 <H1 align="center">
   Welcome to my github profile👋
 </H1>
-
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=SSez&theme=radical&show_icons=true">
-</p>
